@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|c:\\users\\kami\\source\\repos\\research_pms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|c:\\users\\kami\\source\\repos\\research_pms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|c:\\users\\kami\\source\\repos\\research_pms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|c:\\users\\kami\\source\\repos\\research_pms\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|c:\\users\\kami\\source\\repos\\research_pms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|c:\\users\\kami\\source\\repos\\research_pms\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|c:\\users\\kami\\source\\repos\\research_pms\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|c:\\users\\kami\\source\\repos\\research_pms\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|c:\\users\\kami\\source\\repos\\research_pms\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|c:\\users\\kami\\source\\repos\\research_pms\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|c:\\users\\kami\\source\\repos\\research_pms\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|c:\\users\\kami\\source\\repos\\research_pms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\AdminDashboard.cs",
+              "RelativeToolTip": "AdminDashboard.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:54:41.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Applicant.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Applicant.cs",
+              "RelativeDocumentMoniker": "Applicant.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Applicant.cs",
+              "RelativeToolTip": "Applicant.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAHsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:06:09.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Applicant.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Applicant.cs",
+              "RelativeDocumentMoniker": "Applicant.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Applicant.cs [Design]",
+              "RelativeToolTip": "Applicant.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:19:31.297Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:34:54.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Projects.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Projects.cs",
+              "RelativeDocumentMoniker": "Projects.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Projects.cs",
+              "RelativeToolTip": "Projects.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAHQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:29:12.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Projects.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Projects.cs",
+              "RelativeDocumentMoniker": "Projects.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Projects.cs [Design]",
+              "RelativeToolTip": "Projects.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:22:10.399Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Signup.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Signup.cs",
+              "RelativeDocumentMoniker": "Signup.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Signup.cs",
+              "RelativeToolTip": "Signup.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:09:01.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Signup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Signup.cs",
+              "RelativeDocumentMoniker": "Signup.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Signup.cs [Design]",
+              "RelativeToolTip": "Signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:07:50.739Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\StudentForm.cs",
+              "RelativeDocumentMoniker": "StudentForm.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\StudentForm.cs [Design]",
+              "RelativeToolTip": "StudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:04:01.29Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:02:59.139Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAD8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:56:43.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:53:23.14Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

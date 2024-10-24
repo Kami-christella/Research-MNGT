@@ -1,0 +1,15 @@
+C:\Users\Kami\source\repos\Research_PMS\obj\Debug\Research_PMS.csproj.AssemblyReference.cache
+C:\Users\Kami\source\repos\Research_PMS\obj\Debug\Research_PMS.AdminDashboard.resources
+C:\Users\Kami\source\repos\Research_PMS\obj\Debug\Research_PMS.Form1.resources
+C:\Users\Kami\source\repos\Research_PMS\obj\Debug\Research_PMS.Properties.Resources.resources
+C:\Users\Kami\source\repos\Research_PMS\obj\Debug\Research_PMS.StudentForm.resources
+C:\Users\Kami\source\repos\Research_PMS\obj\Debug\Research_PMS.csproj.GenerateResource.cache
+C:\Users\Kami\source\repos\Research_PMS\obj\Debug\Research_PMS.csproj.CoreCompileInputs.cache
+C:\Users\Kami\source\repos\Research_PMS\bin\Debug\Research_PMS.exe.config
+C:\Users\Kami\source\repos\Research_PMS\bin\Debug\Research_PMS.exe
+C:\Users\Kami\source\repos\Research_PMS\bin\Debug\Research_PMS.pdb
+C:\Users\Kami\source\repos\Research_PMS\obj\Debug\Research_PMS.exe
+C:\Users\Kami\source\repos\Research_PMS\obj\Debug\Research_PMS.pdb
+C:\Users\Kami\source\repos\Research_PMS\obj\Debug\Research_PMS.Signup.resources
+C:\Users\Kami\source\repos\Research_PMS\obj\Debug\Research_PMS.Applicant.resources
+C:\Users\Kami\source\repos\Research_PMS\obj\Debug\Research_PMS.Projects.resources
