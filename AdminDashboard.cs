@@ -18,12 +18,18 @@ namespace Research_PMS
             InitializeComponent();
         }
 
+        public void clearAllData()
+        {
+            idtxt.Text = "";
+            comboBox1.SelectedItem = null;
+
+        }
+
         private void button5_Click(object sender, EventArgs e)
         {
-            // Connection string for your database
-            //SqlConnection conn = new SqlConnection("Data Source=DESKTOP-2042M6B\\SQLEXPRESS;Initial Catalog=Job_application_db;Integrated Security=True;TrustServerCertificate=True");
+           
             SqlConnection conn = new SqlConnection("Data Source=DESKTOP-2042M6B\\SQLEXPRESS;Initial Catalog=Research_pms;Integrated Security=True;TrustServerCertificate=True");
-            // SQL query to select all applicants from the Application table
+           
             String query = "SELECT * FROM Applications";
 
             try
@@ -81,11 +87,6 @@ namespace Research_PMS
                 // Add parameters
                 cmd.Parameters.AddWithValue("@sid", SID);
                 cmd.Parameters.AddWithValue("@status", status);
-                //cmd.Parameters.AddWithValue("@names", Names);
-                //cmd.Parameters.AddWithValue("@year", year);
-                //cmd.Parameters.AddWithValue("@gpa", GPA);
-                //cmd.Parameters.AddWithValue("@project", project);
-                //cmd.Parameters.AddWithValue("@research", research);
 
                 // Execute query
                 int rowsAffected = cmd.ExecuteNonQuery();
@@ -101,6 +102,42 @@ namespace Research_PMS
                 {
                     MessageBox.Show("No data updated.");
                 }
+            }
+            clearAllData();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+            SqlConnection conn = new SqlConnection("Data Source=DESKTOP-2042M6B\\SQLEXPRESS;Initial Catalog=Research_pms;Integrated Security=True;TrustServerCertificate=True");
+            // SQL query to select all applicants from the Application table
+            String query = "SELECT * FROM Projects";
+
+            try
+            {
+                // Open connection
+                conn.Open();
+
+                // Create the SqlDataAdapter to execute the query and fill the DataTable
+                SqlDataAdapter adapter = new SqlDataAdapter(query, conn);
+                DataTable dataTable = new DataTable();
+
+                // Fill the DataTable with the query result
+                adapter.Fill(dataTable);
+
+                // Bind the data to the DataGridView control
+                dataGridView1.DataSource = dataTable;
+
+                MessageBox.Show("Applicants listed successfully!");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error fetching data: " + ex.Message);
+            }
+            finally
+            {
+                // Close the connection
+                conn.Close();
             }
         }
     }

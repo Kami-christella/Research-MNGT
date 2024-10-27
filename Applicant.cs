@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace Research_PMS
 {
@@ -18,6 +19,18 @@ namespace Research_PMS
             InitializeComponent();
         }
 
+        public void clearAllData()
+        {
+            sidTXT.Text = "";
+            namestxt.Text = "";
+            yeartxt.Text = "";
+            gpatxt.Text = "";
+            proposaltxt.Text = "";
+            searchSID.Text = "";
+            projectCOMBO.SelectedItem = null;
+
+        }
+
         private void applyBTN_Click(object sender, EventArgs e)
         {
             String SID = sidTXT.Text.Trim();
@@ -26,6 +39,8 @@ namespace Research_PMS
             String GPA = gpatxt.Text.Trim();
             String project = projectCOMBO.SelectedItem?.ToString();
             String research = proposaltxt.Text.Trim();
+            
+            
 
 
             // Convert Score and Semester to integers for comparison
@@ -69,6 +84,7 @@ namespace Research_PMS
                     MessageBox.Show("No data inserted.");
                 }
             }
+            clearAllData();
         }
 
         private void updateBTN_Click(object sender, EventArgs e)
@@ -122,6 +138,7 @@ namespace Research_PMS
                     MessageBox.Show("No data updated.");
                 }
             }
+            clearAllData();
         }
 
         private void deleteBTN_Click(object sender, EventArgs e)
@@ -159,43 +176,42 @@ namespace Research_PMS
             {
                 MessageBox.Show("Application not  deleted");
             }
+            clearAllData();
         }
-
         private void viewStatus_Click(object sender, EventArgs e)
         {
-            //  String SID = positionCombo.SelectedItem?.ToString();
             String SID = searchSID.Text.Trim();
 
-
-
-            //if (string.IsNullOrEmpty(position) && string.IsNullOrEmpty(description))
-            //{
-            //    MessageBox.Show("Please insert value.");
-            //    return;
-            //}
-
-
-
-            SqlConnection conn = new SqlConnection("Data Source=DESKTOP-2042M6B\\SQLEXPRESS;Initial Catalog=Research_pms;Integrated Security=True;TrustServerCertificate=True");
-            String query = "select Status from  Applications where SID=@SID";
-            conn.Open();
-            SqlCommand cmd = new SqlCommand(query, conn);
-            cmd.Parameters.AddWithValue("@SID", SID);
-
-            int rowsAffected = cmd.ExecuteNonQuery();
-            conn.Close();
-
-            if (rowsAffected > 0)
+            using (SqlConnection conn = new SqlConnection("Data Source=DESKTOP-2042M6B\\SQLEXPRESS;Initial Catalog=Research_pms;Integrated Security=True;TrustServerCertificate=True"))
             {
-                MessageBox.Show("PENDING");
-                //this.Hide();
-                //Form1 lo = new Form1();
-                //lo.Show();
+                String query = "SELECT Status FROM Applications WHERE SID = @SID";
+
+                SqlCommand cmd = new SqlCommand(query, conn);
+                cmd.Parameters.AddWithValue("@SID", SID);
+
+                conn.Open();
+
+                // Use ExecuteReader to get the status
+                using (SqlDataReader reader = cmd.ExecuteReader())
+                {
+                    if (reader.Read()) // Check if there is at least one result
+                    {
+                        // Assuming status is a string column in your database
+                        string status = reader["Status"].ToString();
+                        MessageBox.Show(status);
+                        // Optionally: this.Hide();
+                        // Form1 lo = new Form1();
+                        // lo.Show();
+                    }
+                    else
+                    {
+                        MessageBox.Show("Not ID Found");
+                    }
+                }
             }
-            else
-            {
-                MessageBox.Show("PENDING");
-            }
+            clearAllData();
         }
+
+
     }
 }

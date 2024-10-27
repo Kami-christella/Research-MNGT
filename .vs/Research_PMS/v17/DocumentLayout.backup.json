@@ -3,52 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|c:\\users\\kami\\source\\repos\\research_pms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|c:\\users\\kami\\source\\repos\\research_pms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|c:\\users\\kami\\source\\repos\\research_pms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|c:\\users\\kami\\source\\repos\\research_pms\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|c:\\users\\kami\\source\\repos\\research_pms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|c:\\users\\kami\\source\\repos\\research_pms\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|C:\\Users\\Kami\\source\\repos\\Research_PMS\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|c:\\users\\kami\\source\\repos\\research_pms\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|C:\\Users\\Kami\\source\\repos\\Research_PMS\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|C:\\Users\\Kami\\source\\repos\\Research_PMS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|C:\\Users\\Kami\\source\\repos\\Research_PMS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|C:\\Users\\Kami\\source\\repos\\Research_PMS\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|C:\\Users\\Kami\\source\\repos\\Research_PMS\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|C:\\Users\\Kami\\source\\repos\\Research_PMS\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|C:\\Users\\Kami\\source\\repos\\Research_PMS\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|c:\\users\\kami\\source\\repos\\research_pms\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|C:\\Users\\Kami\\source\\repos\\Research_PMS\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|c:\\users\\kami\\source\\repos\\research_pms\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|C:\\Users\\Kami\\source\\repos\\Research_PMS\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|c:\\users\\kami\\source\\repos\\research_pms\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|C:\\Users\\Kami\\source\\repos\\Research_PMS\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|c:\\users\\kami\\source\\repos\\research_pms\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|C:\\Users\\Kami\\source\\repos\\Research_PMS\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|c:\\users\\kami\\source\\repos\\research_pms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{34F001AE-7A18-4650-A2A8-24C6B5DD0A8A}|Research_PMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,29 +70,29 @@
               "Title": "AdminDashboard.cs",
               "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\AdminDashboard.cs",
               "RelativeDocumentMoniker": "AdminDashboard.cs",
-              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\AdminDashboard.cs*",
-              "RelativeToolTip": "AdminDashboard.cs*",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGEAAAArAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\AdminDashboard.cs",
+              "RelativeToolTip": "AdminDashboard.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T18:54:41.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Applicant.cs",
               "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Applicant.cs",
               "RelativeDocumentMoniker": "Applicant.cs",
               "ToolTip": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Applicant.cs",
               "RelativeToolTip": "Applicant.cs",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAAAHsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAANQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T16:06:09.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Applicant.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Applicant.cs",
               "RelativeDocumentMoniker": "Applicant.cs",
@@ -104,20 +104,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T15:34:54.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Projects.cs",
               "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Projects.cs",
               "RelativeDocumentMoniker": "Projects.cs",
@@ -125,24 +125,22 @@
               "RelativeToolTip": "Projects.cs",
               "ViewState": "AgIAAGsAAAAAAAAAAAAAAHQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T15:29:12.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T15:29:12.804Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Projects.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Projects.cs",
               "RelativeDocumentMoniker": "Projects.cs",
               "ToolTip": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Projects.cs [Design]",
               "RelativeToolTip": "Projects.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T15:22:10.399Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-22T15:22:10.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Signup.cs",
               "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Signup.cs",
               "RelativeDocumentMoniker": "Signup.cs",
@@ -150,41 +148,38 @@
               "RelativeToolTip": "Signup.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAAADYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T15:09:01.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T15:09:01.833Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Signup.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Signup.cs",
               "RelativeDocumentMoniker": "Signup.cs",
               "ToolTip": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Signup.cs [Design]",
               "RelativeToolTip": "Signup.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T15:07:50.739Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-22T15:07:50.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "StudentForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\StudentForm.cs",
               "RelativeDocumentMoniker": "StudentForm.cs",
               "ToolTip": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\StudentForm.cs [Design]",
               "RelativeToolTip": "StudentForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T15:04:01.29Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-22T15:04:01.29Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AdminDashboard.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\AdminDashboard.cs",
               "RelativeDocumentMoniker": "AdminDashboard.cs",
-              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\AdminDashboard.cs [Design]*",
-              "RelativeToolTip": "AdminDashboard.cs [Design]*",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "AdminDashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T15:02:59.139Z",
               "EditorCaption": " [Design]"
@@ -197,14 +192,14 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAAAD8AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T14:56:43.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\Research_PMS\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -213,10 +208,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T14:53:23.14Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }

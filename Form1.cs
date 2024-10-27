@@ -19,6 +19,9 @@ namespace Research_PMS
             InitializeComponent();
         }
 
+
+        //public static 
+
         public static string HashPassword(string password)
         {
             using (SHA256 sha256Hash = SHA256.Create())

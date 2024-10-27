@@ -16,7 +16,7 @@ namespace Research_PMS
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Projects());
+            Application.Run(new Applicant());
         }
     }
 }
